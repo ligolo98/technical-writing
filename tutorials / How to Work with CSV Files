@@ -1,0 +1,53 @@
+# How to Work with CSV Files
+
+## Introduction
+
+A CSV (Comma-Separated Values) file is a text file in a specific format that allows you to save data as a table. In the workplace, translators often encounter CSV files. It's essential to know how to handle them. They can be opened and edited in Excel. Below, I describe how to deal with CSV files using an example file available at:
+
+[Sample CSV File](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html)
+
+## Steps to Work with CSV Files
+
+### 1. Downloading the Sample CSV File
+
+   a. Copy the URL: [https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html](https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html)
+   
+   b. Open a web browser.
+   
+   c. Paste the URL into the address bar and press Enter.
+   
+   d. Locate and download the CSV file.
+
+### 2. Opening the CSV File in Excel
+
+   a. Launch Microsoft Excel.
+   
+   b. Choose "Open" from the menu.
+   
+   c. Locate and select the downloaded CSV file.
+   
+   d. Click "Open".
+
+### 3. Editing Data in the CSV File
+
+   a. Once the file is opened in Excel, you can edit its contents.
+   
+   b. Add, remove, or modify values in individual cells.
+
+### 4. Saving Changes to the CSV File
+
+   a. After editing, select "Save" or "Save As" from the menu.
+   
+   b. Choose the CSV file format.
+   
+   c. Save the changes.
+
+## Learning Outcomes
+
+Upon completing these steps, you have achieved the following objectives:
+
+- Ability to open CSV files in Excel.
+- Understanding how to edit the content of a CSV file.
+- Learning to save changes made to a CSV file.
+
+Additionally, you have gained the skill of working with files having different extensions than traditional ones.
