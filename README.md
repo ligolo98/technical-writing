@@ -1,6 +1,6 @@
 ### Welcome everyone 👋
 
-I am a technical writer with a strong interest in foreign languages and a passion for new technology. 
+I'm Natalia Ligowskac- technical writer with a strong interest in foreign languages and a passion for new technology. 
 
 Tools that I use: DITA CMS, SWAGGER, POSTMAN, WIKI ATLASSIAN, JIRA and GITHUB PAGES.
 
